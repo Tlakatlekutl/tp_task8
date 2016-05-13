@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1463089998 source:/home/tlakatlekutl/workspace/Tp_task7neew/main.cpp
+	<iostream>
+	"TpSet.h"
+	"IObject.h"
+	"IntObject.h"
+	"DoubleObject.h"
+	"StringObject.h"
+
+1463154115 /home/tlakatlekutl/workspace/Tp_task7neew/include/TpSet.h
+	<iostream>
+	"IObject.h"
+
+1463090031 /home/tlakatlekutl/workspace/Tp_task7neew/include/IObject.h
+
+1463090025 /home/tlakatlekutl/workspace/Tp_task7neew/include/IntObject.h
+	"IObject.h"
+
+1463084305 source:/home/tlakatlekutl/workspace/Tp_task7neew/src/IntObject.cpp
+	"IntObject.h"
+	<iostream>
+
+1463056235 source:/home/tlakatlekutl/workspace/Tp_task7neew/src/IObject.cpp
+	"IObject.h"
+
+1463089988 source:/home/tlakatlekutl/workspace/Tp_task7neew/src/TpSet.cpp
+	"TpSet.h"
+	"IObject.h"
+	"IntObject.h"
+
+1463085235 source:/home/tlakatlekutl/workspace/Tp_task7neew/src/DoubleObject.cpp
+	"DoubleObject.h"
+	<iostream>
+
+1463090020 /home/tlakatlekutl/workspace/Tp_task7neew/include/DoubleObject.h
+	"IObject.h"
+
+1463086076 source:/home/tlakatlekutl/workspace/Tp_task7neew/src/StringObject.cpp
+	"StringObject.h"
+	<iostream>
+
+1463090036 /home/tlakatlekutl/workspace/Tp_task7neew/include/StringObject.h
+	<string>
+	"IObject.h"
+
